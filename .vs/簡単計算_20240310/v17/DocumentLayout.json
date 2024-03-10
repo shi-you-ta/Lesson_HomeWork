@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\\u7C21\u5358\u8A08\u7B97_20240310\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B52AB97-187D-47EE-848A-F59E32A432FC}|\u7C21\u5358\u8A08\u7B97_20240310.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\\u7C21\u5358\u8A08\u7B97_20240310\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B52AB97-187D-47EE-848A-F59E32A432FC}|\u7C21\u5358\u8A08\u7B97_20240310.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B52AB97-187D-47EE-848A-F59E32A432FC}|\u7C21\u5358\u8A08\u7B97_20240310.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\\u7C21\u5358\u8A08\u7B97_20240310\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B52AB97-187D-47EE-848A-F59E32A432FC}|\u7C21\u5358\u8A08\u7B97_20240310.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\\u7C21\u5358\u8A08\u7B97_20240310\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\\u7C21\u5358\u8A08\u7B97_20240310\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-09T23:23:07.858Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\\u7C21\u5358\u8A08\u7B97_20240310\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\\u7C21\u5358\u8A08\u7B97_20240310\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-09T23:15:41.132Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

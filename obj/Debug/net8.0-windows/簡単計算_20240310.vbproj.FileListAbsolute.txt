@@ -1,0 +1,16 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\bin\Debug\net8.0-windows\簡単計算_20240310.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\bin\Debug\net8.0-windows\簡単計算_20240310.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\bin\Debug\net8.0-windows\簡単計算_20240310.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\bin\Debug\net8.0-windows\簡単計算_20240310.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\bin\Debug\net8.0-windows\簡単計算_20240310.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.Form1.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\refint\簡単計算_20240310.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\簡単計算_20240310.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\簡単計算_20240310\obj\Debug\net8.0-windows\ref\簡単計算_20240310.dll
